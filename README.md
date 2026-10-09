@@ -15,8 +15,8 @@ Analyzed 99K+ Brazilian orders to find why 6.46% deliveries are late & 0.61% ret
 - **Total Orders:** 99.441K | **Total Revenue: ** 14.80M
 - **Return Rate:** 0.61%| **Late Delivery Rate:** 6.46% | **AVG Delivery:** 24.45 days
 - **Critical Finding:** On-Time return rate 0.61% vs Late return rate only 0.02% - late delivery does not drive returns
-**Top Return Category:** cama_mesa_banho (bed/bath) with most issues
-**Seasonality:** Orders peaked Jul-Aug 2017, dropped sharply in Sep 2017
+- **Top Return Category:** cama_mesa_banho (bed/bath) with most issues
+- **Seasonality:** Orders peaked Jul-Aug 2017, dropped sharply in Sep 2017
 
 ## Tech Stack
 - **SQL:** PostgreSQL queries for KPIs and delivery anaiysis
