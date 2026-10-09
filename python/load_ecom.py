@@ -1,7 +1,7 @@
 import pandas as pd
 from sqlalchemy import create_engine
 
-PASSWORD = "840991"
+PASSWORD = "*"
 
 engine = create_engine(f'postgresql://postgres:{PASSWORD}@localhost:5432/ecommerce_analyzer')
 
