@@ -1,4 +1,4 @@
-# Ecommerce Returns & Late Delivery Performance Analyzer
+# Ecommerce Returns & Delivery Performance Analyzer
 I did this project using the Olist Brazilian E-Commerce dataset to understand why orders get cancelled/late.
 Analyzed 99K+ Brazilian orders to find why 6.46% deliveries are late & 0.61% returned.
 
